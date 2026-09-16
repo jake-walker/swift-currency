@@ -1,5 +1,7 @@
 # Swift Currency
 
+> This contains pre-generated currencies to remove the codegen plugin
+
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/peek-travel/swift-currency/blob/master/LICENSE.txt)
 [![Documentation Badge](https://img.shields.io/badge/Documentation-gray?style=flat&logo=gitbook)
 ](https://swiftpackageindex.com/peek-travel/swift-currency/main/documentation/currency)
