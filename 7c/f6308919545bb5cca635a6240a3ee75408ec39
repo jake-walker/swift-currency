@@ -1,0 +1,23 @@
+Package@swift-6.swift
+  h_2463f6ed1216b2 9,15,17
+  h_2463f6ed1216b2 7-8,10-14,16,18
+README.md
+  h_2463f6ed1216b2 3-4
+Package.swift
+  h_2463f6ed1216b2 7-18
+Sources/Currency/Generated/CurrencyMint+ISOCurrencyLookup.swift
+  h_2463f6ed1216b2 1-357
+Sources/Currency/Generated/ISOCurrencies.swift
+  h_2463f6ed1216b2 1-2107
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "7cf6308919545bb5cca635a6240a3ee75408ec39",
+  "prompts": {},
+  "humans": {
+    "h_2463f6ed1216b2": {
+      "author": "Jake Walker <hi@jakew.me>"
+    }
+  }
+}
