@@ -1,0 +1,28 @@
+Sources/ISOStandardCodegen/main.swift
+  s_fcb9a7a31e098d::t_aa8fddd4169fe5 18-24,30-38
+Sources/ISOStandardCodegen/Codegen+SupportedCurrencies.swift
+  s_fcb9a7a31e098d::t_aa8fddd4169fe5 1-41
+Sources/Currency/Generated/CurrencyMint+SupportedCurrencies.swift
+  h_2463f6ed1216b2 1-192
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "b9e594677cf396a9c8169609ac73a33ce3f38d14",
+  "prompts": {},
+  "humans": {
+    "h_2463f6ed1216b2": {
+      "author": "Jake Walker <hi@jakew.me>"
+    }
+  },
+  "sessions": {
+    "s_fcb9a7a31e098d": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a0b48c-0a8e-7f73-aa96-db73606bd9d0",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "Jake Walker <hi@jakew.me>"
+    }
+  }
+}
